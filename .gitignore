@@ -3,6 +3,7 @@
 */*-backups
 */*-bak
 */*_prl
+~*
 _autosave*
 logs
 .DS_Store
