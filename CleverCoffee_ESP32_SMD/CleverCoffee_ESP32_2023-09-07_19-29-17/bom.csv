@@ -1,0 +1,17 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"B_SW1, E_TRIG1, F_SENS1, P_SENS1, S_LED1, T_SENS1, W_SENS1",PinSocket_1x03_P2.54mm_Vertical,7,Conn_01x03,
+C1,CP_Radial_D8.0mm_P3.80mm,1,220 μF,
+"C2, C3, C4",0603,3,100 nF,C14663
+"DIMMER1, I2C1, PV_RL1, SCALE1",PinSocket_1x04_P2.54mm_Vertical,4,Conn_01x04,
+ESP1,NodeMCU DevKitC v4,1,NodeMCU_DevKitC_v4,
+"HT_RL1, P_SW1, S_SW1, V_IN1",PinSocket_1x02_P2.54mm_Vertical,4,Conn_01x02,
+JP1,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,1,SolderJumper_2_Open,
+JTAG1,PinHeader_2x05_P2.54mm_Vertical,1,Conn_ARM_JTAG_SWD_10,
+"Q1, Q2, Q3, Q4, Q5",SOT-23,5,2N7002,C8545
+"R1, R2, R3",0603,3,4K7 Ω,C23162
+"R10, R16, R8",0603,3,100 Ω,C22775
+"R11, R12, R13, R4, R5, R9",0603,6,47K Ω,C25819
+"R14, R6, R7",0603,3,470 Ω,C23179
+"R15, R17, R19, R20",0603,4,10k Ω,C25804
+R18,0603,1,220 Ω,C22962
+ROTARY1,PinSocket_1x05_P2.54mm_Vertical,1,Conn_01x05,

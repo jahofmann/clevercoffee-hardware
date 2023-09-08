@@ -56,10 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_issues|143107500|76435000|93b9e563-bde6-455d-ab94-eb67dad5b813|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|131953000|54420000|2e3ba788-c941-458f-a625-6d1ca06a6106|92e25f3a-fc08-4dd0-9453-52b014102a29"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
