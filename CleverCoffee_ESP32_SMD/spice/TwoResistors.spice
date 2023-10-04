@@ -1,0 +1,5 @@
+.SUBCKT TwoResistors 1 2 3
+R1 1 3 200
+R2 2 3 200
+.ENDS
+
